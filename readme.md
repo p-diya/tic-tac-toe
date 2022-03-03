@@ -2,5 +2,5 @@
 
 A multiplayer game build using HTML, CSS and JS
 
-Link to play: <br>
-https://p-diya.github.io/tic-tac-toe/
+Wanna play? <br>
+https://vigilant-tic-tac-toe.netlify.app/
